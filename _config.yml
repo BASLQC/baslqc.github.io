@@ -2,7 +2,7 @@
 
 title:            Bibliotheca Anonoma
 locale:           en_US
-url:              http://blog.bibanon.org
+url:              http://baslqc.bibanon.org
 
 
 # Jekyll configuration
@@ -25,9 +25,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Bibliotheca Anonoma
+  name: Bibliotheca Anonoma Software Liquidation Commission
   avatar: ba-logo.png
-  bio: "An organization tasked with collecting, documenting, and safeguarding the grand legacy of Internet Folklife."
+  bio: "An organization tasked with collecting, documenting, and safeguarding abandoned software projects and hardware from bygone eras."
   email: 
   disqus-shortname: 
   twitter: BAnonoma
