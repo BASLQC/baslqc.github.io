@@ -5,6 +5,9 @@ excerpt: "A drop-in USB keyboard controller (with customizable keymaps) for the 
 tags: [blog, IBM, IBM Model M, IBM Wheelwriter, Soarer's Controller, mechanical keyboards]
 modified: 2015-09-02
 comments: true
+image:
+  feature: http://i.imgur.com/ltkcI3g.jpg
+  credit: BASLQC, Antonizoon (Lawrence Wu)
 ---
 
 > This article describes a drop-in USB keyboard controller (with customizable keymaps) for the IBM Model M keyboard. It even makes Wheelwriter or RJ-45 Model M keyboards work via USB.
