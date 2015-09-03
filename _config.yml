@@ -25,9 +25,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Bibliotheca Anonoma Software Liquidation Commission
+  name: BA Software Liquidation Commission
   avatar: ba-logo.png
-  bio: "An organization tasked with collecting, documenting, and safeguarding abandoned software projects and hardware from bygone eras."
+  bio: "A division of the Bibliotheca Anonoma tasked with collecting, documenting, and safeguarding abandoned software projects and hardware from bygone eras."
   email: 
   disqus-shortname: 
   twitter: BAnonoma
@@ -39,7 +39,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: bibanon
+  github: baslqc
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
