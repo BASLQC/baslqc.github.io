@@ -6,7 +6,7 @@ tags: [blog, IBM, IBM Model M, IBM Wheelwriter, Soarer's Controller, mechanical 
 modified: 2015-09-02
 comments: true
 image:
-  feature: http://i.imgur.com/ltkcI3g.jpg
+  feature: /images/ltkcI3g.jpg
   credit: BASLQC, Antonizoon (Lawrence Wu)
 ---
 
